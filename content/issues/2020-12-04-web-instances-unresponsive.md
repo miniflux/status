@@ -1,5 +1,5 @@
 ---
-title: Web Instances Unresponsive
+title: Unresponsive Web Instances
 date: 2020-12-04 12:00:00-08:00
 resolved: true
 resolvedWhen: 2020-12-04 14:21:00-08:00
@@ -14,5 +14,5 @@ section: issue
 
 An excessive number of goroutines generated too many open file descriptors on some machines.
 
-The Miniflux process was unresponsive but was still able to respond correctly to healthchecks.
+The Miniflux process was unresponsive but was still able to respond correctly to health checks.
 The process has been restarted.
