@@ -245,7 +245,7 @@ params:
   # in one page
   #
   # NUMERIC; Default: `10`
-  incidentPostsPerPage: 10
+  incidentPostsPerPage: 15
 
   # Colors throughout cState
   #
