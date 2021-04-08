@@ -99,6 +99,7 @@ baseURL: https://status.miniflux.app
 ############################################################
 
 params:
+  enableCustomHTML: true
   # Before setting up your systems, you need
   # to first define at least one category.
   #
