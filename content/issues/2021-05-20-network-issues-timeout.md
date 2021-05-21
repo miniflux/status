@@ -6,6 +6,7 @@ resolved: false
 severity: disrupted
 affected:
   - reader
+  - database
 section: issue
 ---
 
