@@ -1,8 +1,8 @@
 ---
 title: Postgresql 14 Upgrade
 date: 2021-10-13 19:00:00-07:00
-resolved: false
-#resolvedWhen: 2021-05-21 22:38:00-07:00
+resolved: true
+resolvedWhen: 2021-10-13 20:00:00-07:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
